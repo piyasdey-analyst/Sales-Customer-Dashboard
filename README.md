@@ -53,4 +53,4 @@ Overall, it helps reduce guesswork and supports more confident, data-driven deci
 * KPI design and business understanding
 * Building dashboards with end-users in mind
 
-![image alt](image_url)
+![image alt](https://github.com/piyasdey-analyst/Sales-Customer-Dashboard/blob/main/KPI_Sales_Customer_Dashboard.png?raw=true)

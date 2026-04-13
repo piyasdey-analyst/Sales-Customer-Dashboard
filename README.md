@@ -54,4 +54,5 @@ Overall, it helps reduce guesswork and supports more confident, data-driven deci
 * Building dashboards with end-users in mind
 
 ## Screenshot
-https://github.com/piyasdey-analyst/Sales-Customer-Dashboard/blob/main/KPI_Sales_Customer_Dashboard.png
+Show what the dashboard looks like. 1[Alt text](https://github.com/username/repo/assets/image.png)
+
